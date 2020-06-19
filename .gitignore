@@ -1,0 +1,5 @@
+.vscode/
+work/
+.nextflow/
+.nextflow.log*
+result/
